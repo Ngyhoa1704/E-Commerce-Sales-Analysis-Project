@@ -51,13 +51,4 @@ This project showcases a collection of SQL scripts used to analyze business perf
 - **Which customers generate the most revenue?**
 - **How is performance trending by dimension/category?**
 
----
-
-## ✅ How to Use
-
-1. Clone this repository
-2. Load your dataset into your SQL environment
-3. Run any script as needed
-4. Modify queries to fit your schema or use case
-
 
