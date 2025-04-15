@@ -54,7 +54,7 @@ This project showcases a collection of SQL scripts used to analyze business perf
 - **Which customers generate the most revenue?**
 - **How is performance trending by dimension/category?**
 
-  ## 📊 Key Reports
+## 📊 Key Reports
 - `report_customers`: Segmentation, recency, AOV, lifetime value  
 - `report_products`: Revenue tiering, recency, monthly revenue  
 - Sales trends: Yearly & monthly growth  
