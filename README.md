@@ -4,7 +4,7 @@ This project showcases a collection of SQL scripts used to analyze business perf
 
 ---
 
-## 📌 Project Goals
+## Project Goals
 
 - Segment customers & products (VIP, High-Performer, etc.)
 - Track trends with cumulative and moving averages
@@ -12,12 +12,12 @@ This project showcases a collection of SQL scripts used to analyze business perf
 - Generate customer and product reports using views
 - Measure KPIs like total sales, order count, AOV
 
-## 🗂️ Datasets
+## Datasets
 - `gold.fact_sales`: Sales transactions  
 - `gold.dim_customers`: Customer demographics  
 - `gold.dim_products`: Product details 
 
-## 🧰 Tools & Skills
+## Tools & Skills
 
 - SQL (compatible with PostgreSQL, MySQL, or BigQuery)
 - CTEs
@@ -28,7 +28,7 @@ This project showcases a collection of SQL scripts used to analyze business perf
 - CASE WHEN Logic
 
 
-## 📂 File Overview
+## File Overview
 
 | File Name                      | Purpose                              | Key SQL Concepts Used               |
 |-------------------------------|--------------------------------------|-------------------------------------|
@@ -47,21 +47,21 @@ This project showcases a collection of SQL scripts used to analyze business perf
 
 
 
-## 📊 Sample Use Cases
+## Sample Use Cases
 
 - **Who are the top-performing products this month?**
 - **What is the cumulative growth in sales over time?**
 - **Which customers generate the most revenue?**
 - **How is performance trending by dimension/category?**
 
-## 📊 Key Reports
+## Key Reports
 - `report_customers`: Segmentation, recency, AOV, lifetime value  
 - `report_products`: Revenue tiering, recency, monthly revenue  
 - Sales trends: Yearly & monthly growth  
 - Rankings: Top/bottom products & customers  
 - Country/gender breakdown
 
-## 🏗️ Tools
+## Tools
 - SQL Server (T-SQL syntax)
 - Fact & dimension model
 
